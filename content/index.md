@@ -9,4 +9,4 @@ title: Alina 的读书笔记
 ## 最近阅读
 
 - [《父母的语言：3000万词汇塑造更强大的学习型大脑》](parents-language)
-- [[sponge-reading|海绵阅读法：如何吸收一本书的精华]]
+- [海绵阅读法：如何吸收一本书的精华](/sponge-reading)
